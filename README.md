@@ -8,3 +8,4 @@ This repository contains basic Java practice programs for semester work.
 - `PrimeCheck.java` - Checks whether a number is prime.
 - `PalindromeCheck.java` - Checks whether a number is a palindrome.
 - `TrianglePattern.java` - Prints a triangle number pattern.
+- `ArmstrongCheck.java` - Checks whether a number is an Armstrong number.
